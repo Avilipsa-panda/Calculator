@@ -1,2 +1,2 @@
 # Calculator
-A functional calculator using HTML,CSS,JAVASCRIPT
+A functional calculator 
